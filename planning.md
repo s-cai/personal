@@ -15,3 +15,23 @@
 - decide on storage and start running
 - more refactors
 - keep analytics
+
+# DanMiao
+
+- dirty work: check participation
+- think about other involvements
+
+# PopSci
+
+- 4 videos
+- ask for group
+
+# Writing
+
+## Art of learning
+
+- This is the reading notes with a personal touch
+
+## Calendar fun
+
+- start with a most succinct and dry version!
