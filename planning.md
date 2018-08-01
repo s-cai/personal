@@ -16,9 +16,13 @@
 - more refactors
 - keep analytics
 
+# Other data
+
+- credit card: download and normalize
+  - basic analysis
+
 # DanMiao
 
-- dirty work: check participation
 - think about other involvements
 
 # PopSci
