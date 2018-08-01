@@ -20,6 +20,7 @@
 
 - credit card: download and normalize
   - basic analysis
+- [coinmarketcap](https://coinmarketcap.com/api/)
 
 # DanMiao
 
