@@ -1,14 +1,17 @@
-# 2018-07-04
+# Dev
 
-- Gemini
-  - basic stuff running
-  - register
-  - plan
-  
-- zp 
-  - logger: rotation
-  - think about OB
-  
-- edu
-  - list projects
-  - look into one
+- store AWS key
+- start common lib?
+
+# Mktdata
+
+- figure out data source
+- research book building lib (L2 & L3)
+- notebook pipeline and very basic pandas etc.
+
+# Scraper
+
+- separate password, upload to github
+- decide on storage and start running
+- more refactors
+- keep analytics
